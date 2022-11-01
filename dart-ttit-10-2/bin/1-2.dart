@@ -12,7 +12,7 @@ void main() {
     nummer.add(a);
     if (a != 0) {
       mult *= a;
-       i++;
+      i++;
     }
   }
   dynamic vc = summ / i;
